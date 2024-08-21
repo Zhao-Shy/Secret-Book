@@ -74,3 +74,13 @@ We consider our options and make a decision.
 ---
 
 ## How do we know if we are talking about the present or the future?
+The words we use only convey some of the meaning. We get a lot of meaning from context.
+||||||
+|-|-|-|-|-|
+|I'm not drinking.|I'm driving.||She'll be asleep.|I'll wait.|
+|*(present)*|*(future)*||*(present)*|*(future)*|
+> We often know what is happening in the present, when something is not happening in the present we know that it is happening in the future.
+
+As we can see above, we talk about the future in the same way we talk about the present. English has no future tense. *Will* is used to talk about options and possibilities, and this may be useful when talking about the future or the present. It is important to understand how the simple concept of modality and the two English tenses work together to express a wide range of ideas.
+
+For future reading about English not having a future tense, see: Rodney Huddleston and Geoffrey K. Pullum (2002), *The Cambridge Grammar of the English Language*, Cambridge University Press, 208-212.
